@@ -26,7 +26,7 @@
 
 # サイト版テンプレート
 
-https://sparkling-cinnamon-3f9.notion.site/294442966e7d4f93919cf642a4171960?v=321cf19d5c344ddeac02d23b9b9367dd
+https://sparkling-cinnamon-3f9.notion.site/91f980d0eff945448990a7f209ca9fd0?v=a83d03eaeb094ef6a55e53b2c12c02ec
 
 ## NotionDB の扱いの違い
 ![Screenshot 2023-03-22 at 18 21 50](https://user-images.githubusercontent.com/24947347/226858733-291651e7-5281-495d-9b2d-bd609887ae09.png)
